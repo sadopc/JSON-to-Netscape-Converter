@@ -15,7 +15,7 @@ Bu küçük araç, JSON formatındaki çerezleri **Netscape HTTP Cookie** format
 2. Bu dosyayı çalıştırın:
 
 ```bash
-python json_to_netscape_gui.py
+python json_convert.py
 ```
 
 3. Açılan pencereye JSON formatındaki çerezleri yapıştırın.
